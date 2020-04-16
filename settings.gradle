@@ -1,0 +1,2 @@
+rootProject.name='VcFun'
+include ':app'
