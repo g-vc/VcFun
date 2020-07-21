@@ -24,6 +24,6 @@ class MainListAdatper : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     class ItemHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         private lateinit var tvItem : TextView
-        
+
     }
 }
