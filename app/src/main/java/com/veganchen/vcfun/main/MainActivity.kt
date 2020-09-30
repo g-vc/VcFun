@@ -23,8 +23,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun init(){
-        val manager : LinearLayoutManager =
-            LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
-        rv.layoutManager = manager
+
     }
 }
