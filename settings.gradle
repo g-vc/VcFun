@@ -1,2 +1,4 @@
+include ':main'
+include ':pedometer'
 rootProject.name='VcFun'
 include ':app'

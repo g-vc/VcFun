@@ -1,4 +1,4 @@
-package com.veganchen.vcfun.main.util
+package com.veganchen.main.util
 
 import android.app.AppOpsManager
 import android.content.Context
